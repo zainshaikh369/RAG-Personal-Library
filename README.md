@@ -131,9 +131,3 @@ Main ones:
 This tool runs locally and does not send any data to external APIs. Please ensure that you have the right to process any documents you use with this assistant.
 
 ---
-
-## 📌 Next Steps
-
-- [ ] Add multi-document support  
-- [ ] Build a Streamlit-based chat UI  
-- [ ] Save/load vector index for faster reuse  
