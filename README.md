@@ -22,7 +22,7 @@ Everything runs **offline** — your files never leave your machine.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rag-pdf-assistant.git
+git clone https://github.com/zainshaikh369/RAG-Personal-Library.git
 cd rag-pdf-assistant
 ```
 
